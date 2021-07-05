@@ -1,1 +1,1 @@
-# Rabbit-hole-blocker
+This extension blocks suggestions and comments when you are watching a video on YouTube. Is very useful when you are on YouTube for educational purposes, but you are distracted by comments and recommandations.
